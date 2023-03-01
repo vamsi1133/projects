@@ -1,0 +1,21 @@
+.floor {
+  margin: auto;
+  background: url("../../assets/floor.jpg");
+  height: 700px;
+  width: 75%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.floor button {
+  background-color: red;
+  height: 35px;
+  border: none;
+  box-shadow: 5px 5px 5px rgb(225, 112, 112);
+  border-radius: 25px;
+  margin-top: 5px;
+}
+.gun img {
+  height: 50px;
+  width: auto;
+}
