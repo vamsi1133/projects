@@ -1,0 +1,11 @@
+.listitems {
+  padding: 5px;
+  background-color: rgb(236, 193, 193);
+}
+
+.listitems:nth-child(odd){
+    background-color: rgb(202, 214, 244);
+}
+
+.todo-wrapper{
+}
